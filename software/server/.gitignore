@@ -1,0 +1,8 @@
+db_connect.php
+php.ini
+index.html
+uploads/
+*.h5
+*.hdf5
+*.sql
+*.sql.gz
