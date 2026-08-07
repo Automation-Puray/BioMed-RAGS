@@ -74,7 +74,7 @@ The complete citation, DOI, and publication link will be added when they become 
 
 ## Safety
 
-This research platform includes moving robotic equipment and optical radiation sources. Appropriate laser or UV eye protection, beam control, access restriction, electrical precautions, and mechanical risk controls must be established before operation.
+This research platform includes moving robotic equipment and optical radiation sources. Appropriate laser or UV eye protection, beam control, access restriction, electrical precautions, and mechanical risk controls must be established before operation. Read the complete [platform safety guidance](SAFETY.md) before assembling or operating the system.
 
 This repository does not replace a laboratory-specific risk assessment or the operating instructions supplied by equipment manufacturers.
 
