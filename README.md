@@ -78,6 +78,16 @@ This research platform includes moving robotic equipment and optical radiation s
 
 This repository does not replace a laboratory-specific risk assessment or the operating instructions supplied by equipment manufacturers.
 
+## Credits and acknowledgements
+
+The robotic arm control in this project uses the **pydexarm** Python library to communicate with the Rotrics DexArm. The DexArm firmware is built on [**Marlin**](https://marlinfw.org/), the open-source 3D-printer firmware project. DexArm firmware is fully open-source and its control commands (G-code) are compatible with Marlin.
+
+- Marlin firmware: [marlinfw.org](https://marlinfw.org/) — GNU General Public Licence
+- Rotrics DexArm: [rotrics.com](https://rotrics.com)
+- pydexarm library: [github.com/Rotrics-Dev/pydexarm](https://github.com/Rotrics-Dev/pydexarm)
+
+We thank the Marlin and Rotrics communities for making open robotic hardware accessible to research laboratories.
+
 ## License and citation
 
 License files and `CITATION.cff` metadata are being prepared and will be included before the first complete versioned release.
